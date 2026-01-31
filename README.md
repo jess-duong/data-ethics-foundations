@@ -48,7 +48,7 @@ Data_Ethics_Analytics/
 │
 ├── deliverables/
 │   ├── AML_Decision_Tree.pdf
-│   └── Case_Study_Presentation.pdf
+│   └── Data_Ethics_Foundation_Overview.pdf
 │
 └── data/
     └── Time_Series_Task.xlsx
