@@ -74,6 +74,7 @@ These exercises provide the analytical and ethical foundation supporting the mor
 
 **Jess Duong**  
 Data Analyst | [LinkedIn](https://linkedin.com/in/jessica-duong-35690847/) | [GitHub](https://github.com/jess-duong) | duong.t.jess@gmail.com
+
 ---
 
 *Completed as part of CareerFoundry's Data Analytics Program ( Data Ethics & Applied Analytics)*
