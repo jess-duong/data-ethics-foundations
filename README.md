@@ -38,7 +38,7 @@ Demonstrated critical thinking about sampling bias, measurement bias, and confou
 ## Repository Contents
 
 ```
-Project5_Data_Ethics_Analytics/
+Data_Ethics_Analytics/
 │
 ├── README.md
 │
