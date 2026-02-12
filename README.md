@@ -73,7 +73,7 @@ These exercises provide the analytical and ethical foundation supporting the mor
 ## Author
 
 **Jess Duong**  
-Data Analyst | [LinkedIn](https://www.linkedin.com/in/jesstduong/) | [Portfolio](https://jess-duong.github.io/) | duong.t.jess@gmail.com
+Data Analyst | [LinkedIn](https://www.linkedin.com/in/jess-duong/) | [Portfolio](https://jess-duong.github.io/) | duong.t.jess@gmail.com
 
 ---
 
