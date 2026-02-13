@@ -66,7 +66,7 @@ Data_Ethics_Analytics/
 
 ## Context
 
-These exercises provide the analytical and ethical foundation supporting the more comprehensive projects in my portfolio (GameCo, Influenza Staffing, Rockbuster, Instacart). They demonstrate competency in statistical methods, forecasting techniques, and responsible data practices.
+These exercises provide the analytical and ethical foundation supporting the more comprehensive projects in my portfolio. They demonstrate competency in statistical methods, forecasting techniques, and responsible data practices.
 
 ---
 
