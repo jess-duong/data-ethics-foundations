@@ -2,9 +2,8 @@
 
 **Applied analytics across compliance, forecasting, and ethical decision-making scenarios in a simulated banking environment.**
 
-[![View AML Decision Tree](https://img.shields.io/badge/Deliverable-AML_Decision_Tree-2B5329?style=flat-square&logo=readthedocs&logoColor=white)](deliverables/)
-[![View Forecasting Analysis](https://img.shields.io/badge/Analysis-Time_Series_Forecasting-6AAB73?style=flat-square&logo=readthedocs&logoColor=white)](analysis/)
-[![View Ethics Framework](https://img.shields.io/badge/Deliverable-Data_Ethics_Framework-C4A84D?style=flat-square&logo=readthedocs&logoColor=white)](deliverables/)
+[![View AML Decision Tree](https://img.shields.io/badge/Deliverable-AML_Decision_Tree-2B5329?style=flat-square&logo=readthedocs&logoColor=white)](deliverables/risk_decision_tree.png)
+[![View Ethics Framework](https://img.shields.io/badge/Deliverable-Data_Ethics_Framework-C4A84D?style=flat-square&logo=readthedocs&logoColor=white)](deliverables/Jess%20Duong_Data_Ethics_Overview.pdf)
 
 ---
 
